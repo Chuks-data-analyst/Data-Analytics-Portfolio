@@ -5,12 +5,14 @@ Tools Used: Excel (data cleaning, visualization), Analytical Skills (trend analy
 Project Overview
 This interactive dashboard was designed to explore global AI job market dynamics, focusing on job postings, salary insights, and skill demand across industries and regions. By consolidating hiring data, it empowers recruiters, job seekers, and business leaders with actionable insights into workforce trends, high-paying locations, and the most in-demand AI roles and skills
 
-Objectives
-•	Monitor and visualize key job market KPIs such as total postings, average salary, and number of hiring locations.
-•	Identify the most in-demand AI skills and high-paying roles.
-•	Compare salary variations across countries and work locations (On-site, Hybrid, Remote).
-•	Track monthly posting trends to detect hiring cycles and seasonal patterns.
-•	Highlight leading countries in AI job opportunities to support career and hiring strategies.
+
+
+### Objectives
+- Monitor and visualize key job market KPIs such as total postings, average salary, and number of hiring locations.
+- Identify the most in-demand AI skills and high-paying roles.
+- Compare salary variations across countries and work locations (On-site, Hybrid, Remote).
+- Track monthly posting trends to detect hiring cycles and seasonal patterns.
+- Highlight leading countries in AI job opportunities to support career and hiring strategies.
 
 Key Insights
 1.	AI Skill Demand – Python leads as the most in-demand AI skill (4,450 postings), followed by SQL (3,407) and Kubernetes (3,009).
