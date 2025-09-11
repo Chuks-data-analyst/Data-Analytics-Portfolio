@@ -13,18 +13,17 @@ This interactive HR dashboard was designed to analyze workforce distribution, pe
 
 
 ### Key Insights
-- Workforce Size – The organization employs over 2M employees, distributed globally.
-- Employment Status – The majority are Active employees, with a smaller share resigned, retired, or terminated.
-- Work Modes – Hybrid and Remote working models are widely adopted, reflecting post-pandemic flexibility trends.
-- Salary Distribution – While average salaries fall within industry ranges, there are significant outliers (executives earning ~3M INR).
-- Performance Ratings – Most employees are clustered around mid-to-high ratings, but a small percentage underperform, requiring targeted improvement programs.
+- Workforce Size : The organization employs over 2M employees, distributed globally.
+- Employment Status : The majority are Active employees, with a smaller share resigned, retired, or terminated.
+- Work Modes : Hybrid and Remote working models are widely adopted, reflecting post-pandemic flexibility trends.
+- Salary Distribution : While average salaries fall within industry ranges, there are significant outliers (executives earning ~3M INR).
+- Performance Ratings : Most employees are clustered around mid-to-high ratings, but a small percentage underperform, requiring targeted improvement programs.
 
 
 ### Tools & Skills Applied
-- SQL – Data cleaning, missing value handling, salary outlier detection.
-- Power BI – Interactive dashboard creation with KPI cards, bar charts, donut charts, and maps.
-- Data Transformation – Removing unnecessary columns, handling status categories, creating calculated KPIs.
-- Design Best Practices – Consistent corporate color palette, simple layouts, and clear legend/labels.
+- SQL : Data cleaning, missing value handling, salary outlier detection.
+- Power BI : Interactive dashboard creation with KPI cards, bar charts, donut charts, and maps.
+- Data Transformation : Removing unnecessary columns, handling status categories, creating calculated KPIs.
 
 
 ### Impact
@@ -36,8 +35,8 @@ This interactive HR dashboard was designed to analyze workforce distribution, pe
 
 
 ### Recommendations
-- Retention Programs – Focus on employees with mid/low performance ratings to reduce turnover.
-- Salary Benchmarking – Review outlier salaries for alignment with internal equity and industry benchmarks.
-- Flexible Work Policies – Maintain hybrid/remote options to retain top talent in competitive markets.
-- Talent Development – Invest in upskilling programs for underperforming employees.
-- Workforce Forecasting – Use trends in active vs. resigned employees to plan future hiring.
+- Retention Programs : Focus on employees with mid/low performance ratings to reduce turnover.
+- Salary Benchmarking : Review outlier salaries for alignment with internal equity and industry benchmarks.
+- Flexible Work Policies : Maintain hybrid/remote options to retain top talent in competitive markets.
+- Talent Development : Invest in upskilling programs for underperforming employees.
+- Workforce Forecasting : Use trends in active vs. resigned employees to plan future hiring.
