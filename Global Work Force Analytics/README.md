@@ -27,19 +27,19 @@ This dashboard was developed to provide a comprehensive analysis of global workf
 ### Impact & Recommendations
 Based on the insights gained from this analysis, here are the key impacts and actionable recommendations for stakeholders:
 
-### For HR & Department Managers:
+- ### For HR & Department Managers:
 ### Recommendation
 - Conduct a root-cause analysis into why the IT and Sales departments have the highest attrition.
 ### Impact 
 - This can lead to the development of targeted retention strategies, such as improving compensation or providing better career growth opportunities, ultimately lowering turnover and saving recruitment costs.
 
-### For Talent Acquisition Teams:
+- ### For Talent Acquisition Teams:
 ### Recommendation
 - Actively promote the company's flexible work model, which currently includes 40% of employees working remotely.
 ### Impact
 This strategy can significantly broaden the talent pool, allowing you to attract and hire qualified candidates from a wider range of locations, reducing time-to-hire for key roles.
 
-### For Business Leaders & Executives:
+- ### For Business Leaders & Executives:
 ### Recommendation
 - Use the trend data, such as the peak in hiring in 2022, to inform future workforce planning and budget allocation.
 ### Impact
