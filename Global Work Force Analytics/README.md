@@ -1,7 +1,7 @@
 
 # Global Workforce Analytics Dashboard
 
-### Project review
+### Project Overview
 This dashboard was developed to provide a comprehensive analysis of global workforce data, offering key insights into employee demographics, hiring trends, salary distribution, and attrition rates. It serves as a valuable tool for HR professionals, department managers, and business leaders to make data-driven decisions regarding talent management and strategy.
 
 ### Objectives
@@ -37,7 +37,7 @@ Based on the insights gained from this analysis, here are the key impacts and ac
 ### Recommendation
 - Actively promote the company's flexible work model, which currently includes 40% of employees working remotely.
 ### Impact
-This strategy can significantly broaden the talent pool, allowing you to attract and hire qualified candidates from a wider range of locations, reducing time-to-hire for key roles.
+- This strategy can significantly broaden the talent pool, allowing you to attract and hire qualified candidates from a wider range of locations, reducing time-to-hire for key roles.
 
 - ### For Business Leaders & Executives:
 ### Recommendation
