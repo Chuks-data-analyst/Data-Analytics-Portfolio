@@ -22,6 +22,13 @@ This interactive dashboard was designed to explore global AI job market dynamics
 - Geographic Hotspots – Germany emerges as the top hiring hub (814 postings), with strong demand also seen in France, Denmark, Canada, and Austria.
 - Posting Trends – Job postings peak in April (1,927) before declining mid-year, suggesting seasonality in AI recruitment cycles.
 
+<img width="1092" height="602" alt="Page1" src="https://github.com/user-attachments/assets/9d434a17-268a-4f76-b621-be529ac27ba9" />
+<img width="1044" height="593" alt="Page2" src="https://github.com/user-attachments/assets/c0de3023-187d-432e-ac79-3cda8db91dcc" />
+
+
+
+
+
 
 ### Impact
 - Helped identify Python and SQL as the most sought-after skills, guiding job seekers to focus on upskilling.
