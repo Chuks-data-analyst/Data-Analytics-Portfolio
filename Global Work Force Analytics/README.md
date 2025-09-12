@@ -20,8 +20,8 @@ This dashboard was developed to provide a comprehensive analysis of global workf
 
 
 ### Dashboard Screenshots
-
-
+<img width="921" height="604" alt="Screenshot 2025-09-11 171236" src="https://github.com/user-attachments/assets/524c4db3-7a47-44e1-851b-15ce278638d5" />
+<img width="919" height="606" alt="Screenshot 2025-09-11 171422" src="https://github.com/user-attachments/assets/909c0085-76fe-4dd4-beed-db57843e9b7e" />
 
 
 ### Impact & Recommendations
@@ -29,18 +29,18 @@ Based on the insights gained from this analysis, here are the key impacts and ac
 
 - ### For HR & Department Managers:
 ### Recommendation
-- Conduct a root-cause analysis into why the IT and Sales departments have the highest attrition.
+Conduct a root-cause analysis into why the IT and Sales departments have the highest attrition.
 ### Impact 
-- This can lead to the development of targeted retention strategies, such as improving compensation or providing better career growth opportunities, ultimately lowering turnover and saving recruitment costs.
+This can lead to the development of targeted retention strategies, such as improving compensation or providing better career growth opportunities, ultimately lowering turnover and saving recruitment costs.
 
 - ### For Talent Acquisition Teams:
 ### Recommendation
-- Actively promote the company's flexible work model, which currently includes 40% of employees working remotely.
+Actively promote the company's flexible work model, which currently includes 40% of employees working remotely.
 ### Impact
-- This strategy can significantly broaden the talent pool, allowing you to attract and hire qualified candidates from a wider range of locations, reducing time-to-hire for key roles.
+This strategy can significantly broaden the talent pool, allowing you to attract and hire qualified candidates from a wider range of locations, reducing time-to-hire for key roles.
 
 - ### For Business Leaders & Executives:
 ### Recommendation
-- Use the trend data, such as the peak in hiring in 2022, to inform future workforce planning and budget allocation.
+Use the trend data, such as the peak in hiring in 2022, to inform future workforce planning and budget allocation.
 ### Impact
-- By understanding past hiring cycles and current salary trends, leadership can make more informed decisions about strategic investments, ensuring competitive compensation and aligning staffing with business goals.
+By understanding past hiring cycles and current salary trends, leadership can make more informed decisions about strategic investments, ensuring competitive compensation and aligning staffing with business goals.
