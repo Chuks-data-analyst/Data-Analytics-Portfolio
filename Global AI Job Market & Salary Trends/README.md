@@ -1,7 +1,5 @@
 ### Global AI Job Market Dashboard
 
-### Tools Used: Excel (data cleaning, visualization), Analytical Skills (trend analysis, salary benchmarks).
-
 ### Project Overview
 This interactive dashboard was designed to explore global AI job market dynamics, focusing on job postings, salary insights, and skill demand across industries and regions. By consolidating hiring data, it empowers recruiters, job seekers, and business leaders with actionable insights into workforce trends, high-paying locations, and the most in-demand AI roles and skills
 
@@ -47,7 +45,15 @@ Based on the insights gained from this analysis, here are the key impacts and ac
 ### Impact
 - Adopting a flexible model can significantly broaden your talent reach beyond local markets and improve employee satisfaction and retention.
 
+### Methodology
+The data for this project was sourced from a public dataset on Kaggle. The entire analysis was performed using Microsoft Excel. 
+### The process involved several key steps:
+**Data Cleaning:** The raw data was imported into Excel. I performed a thorough data cleaning process, which included checking for and handling missing values, duplicates, and nulls. I also renamed columns for clarity, replaced text values, and removed columns that were not relevant to the analysis.
+**Data Transformation:** I used Excel's pivot tables to perform data transformation, including calculating average salaries, counting job postings by location and skill, and categorizing roles to enable deeper analysis.
+**Visualization:** I created a series of interactive charts and graphs to visualize key trends. These visualizations were designed to make complex data easy to understand, providing a clear overview of the global AI job market.
 
+### Conclusion
+This project successfully demonstrates how data analytics, even with a common tool like Excel, can be used to extract powerful, actionable insights from raw data. By creating this dashboard, I've not only answered key questions about the AI job market but also provided a clear, visual resource for stakeholders. This project reinforced my skills in data cleaning, transformation, and visualization.
 
 
 
