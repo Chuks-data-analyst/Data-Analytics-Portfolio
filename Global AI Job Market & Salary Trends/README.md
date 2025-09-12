@@ -30,22 +30,22 @@ This interactive dashboard was designed to explore global AI job market dynamics
 
 Based on the insights gained from this analysis, here are the key impacts and actionable recommendations for stakeholders:
 ### Recommendation 
-Focus on Germany, France, and Denmark as primary markets for hiring given the high volume of job postings.
+- Focus on Germany, France, and Denmark as primary markets for hiring given the high volume of job postings.
 
 ### Impact 
-This focus can streamline recruitment efforts, reduce time-to-hire, and attract a larger pool of qualified candidates from leading AI markets.
+- This focus can streamline recruitment efforts, reduce time-to-hire, and attract a larger pool of qualified candidates from leading AI markets.
 
 ### Recommendation
-Consider Switzerland, Denmark, and Norway as top destinations for high-paying roles. Additionally, highlight skills like Python, SQL, and Kubernetes on your resume, as they are most in-demand.
+- Consider Switzerland, Denmark, and Norway as top destinations for high-paying roles. Additionally, highlight skills like Python, SQL, and Kubernetes on your resume, as they are most in-demand.
 
 ### Impact
-Following these recommendations can lead to a more targeted job search, resulting in higher earning potential and a faster path to securing a role.
+- Following these recommendations can lead to a more targeted job search, resulting in higher earning potential and a faster path to securing a role.
 
 ### Recommendation
-Given the almost even split between On-site, Hybrid, and Remote roles, consider a flexible work policy to attract top talent from a global pool.
+- Given the almost even split between On-site, Hybrid, and Remote roles, consider a flexible work policy to attract top talent from a global pool.
 
 ### Impact
-Adopting a flexible model can significantly broaden your talent reach beyond local markets and improve employee satisfaction and retention.
+- Adopting a flexible model can significantly broaden your talent reach beyond local markets and improve employee satisfaction and retention.
 
 
 
