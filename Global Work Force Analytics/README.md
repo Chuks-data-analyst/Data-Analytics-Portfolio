@@ -44,3 +44,15 @@ This strategy can significantly broaden the talent pool, allowing you to attract
 Use the trend data, such as the peak in hiring in 2022, to inform future workforce planning and budget allocation.
 ### Impact
 By understanding past hiring cycles and current salary trends, leadership can make more informed decisions about strategic investments, ensuring competitive compensation and aligning staffing with business goals.
+
+### Methodology
+The data for this project was sourced from a publicly available dataset. I used SQL and Power BI to perform the analysis. The process was as follows:
+
+**Data Cleaning and Transformation (SQL):** I used SQL to perform a thorough data cleaning process. This included checking for and handling missing values, duplicates, and nulls. I also removed columns that were not necessary for the analysis.
+
+**Data Visualization and DAX Measures (Power BI):** After cleaning the data in SQL, I imported the refined dataset into Power BI. I created several key DAX measures for critical metrics like total employees, active employees, and attrition rate. I then used these measures to design a series of interactive charts and graphs to visualize key trends and insights.
+
+**Conclusion**
+This project successfully demonstrates my ability to use industry-standard tools like SQL and Power BI to transform raw data into a clear and actionable dashboard. By analyzing key workforce metrics, I was able to identify critical insights into employee demographics, salary, and attrition. This dashboard serves as a powerful example of how data can be used to inform business decisions and drive strategic change.
+
+Moving forward, this project could be enhanced by connecting to a live database for real-time data updates, incorporating more advanced predictive analytics to forecast future attrition, or building a more detailed analysis on specific departments.
