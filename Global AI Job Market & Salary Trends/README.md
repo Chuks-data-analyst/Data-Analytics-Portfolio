@@ -2,11 +2,11 @@
 #  Global AI Job Market Dashboard  
 
 ## Project Overview  
-This interactive dashboard explores global AI job market dynamics**, focusing on job postings, salary insights, and skill demand across industries and regions. By consolidating hiring data, it empowers recruiters, job seekers, and business leaders** with actionable insights into workforce trends, high-paying locations, and the most in-demand AI roles and skills.  
+This interactive dashboard explores global AI job market dynamics, focusing on job postings, salary insights, and skill demand across industries and regions. By consolidating hiring data, it empowers recruiters, job seekers, and business leaders** with actionable insights into workforce trends, high-paying locations, and the most in-demand AI roles and skills.  
 
 
 ## Problem Statement  
-The rapid expansion of AI adoption worldwide has created a surge in demand for skilled professionals. However, navigating this fast-changing job market is challenging due to fragmented data on salaries, roles, skills, and geographic demand**. Without centralized insights, recruiters struggle to target high-potential markets, while job seekers lack visibility into the best-paying locations and most in-demand skills. A data-driven solution is needed to bridge this gap and support smarter career and hiring decisions.  
+The rapid expansion of AI adoption worldwide has created a surge in demand for skilled professionals. However, navigating this fast-changing job market is challenging due to fragmented data on salaries, roles, skills, and geographic demand. Without centralized insights, recruiters struggle to target high-potential markets, while job seekers lack visibility into the best-paying locations and most in-demand skills. A data-driven solution is needed to bridge this gap and support smarter career and hiring decisions.  
 
 ##  Objectives  
 - **Monitor Job Market KPIs**: Track total job postings, average salaries, and hiring locations.  
