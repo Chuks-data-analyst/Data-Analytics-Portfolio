@@ -2,11 +2,11 @@
 # Hospital Management Dashboard
 
 ##  Project Overview  
-This project delivers an interactive **Power BI dashboard** that consolidates hospital data into a single source of truth. It provides visibility into **revenue, patient appointments, treatment trends, and demographics**. By transforming raw data into actionable insights, the dashboard enables hospital administrators and managers to **monitor performance, optimize resources, and make data-driven decisions** that improve both operational efficiency and patient care.  
+This project delivers an interactive Power BI dashboard that consolidates hospital data into a single source of truth. It provides visibility into revenue, patient appointments, treatment trends, and demographics. By transforming raw data into actionable insights, the dashboard enables hospital administrators and managers to monitor performance, optimize resources, and make data-driven decisions that improve both operational efficiency and patient care.  
 
 
 ##  Problem Statement  
-Hospitals often struggle to monitor key operational and financial metrics due to fragmented data and limited visibility. Without a centralized system, administrators face challenges in **tracking revenue trends, understanding appointment outcomes, and identifying high-demand specializations**. These gaps hinder their ability to **optimize resources, reduce no-show rates, and improve both financial stability and patient care**.  
+Hospitals often struggle to monitor key operational and financial metrics due to fragmented data and limited visibility. Without a centralized system, administrators face challenges in tracking revenue trends, understanding appointment outcomes, and identifying high-demand specializations. These gaps hinder their ability to optimize resources, reduce no-show rates, and improve both financial stability and patient care.  
 
 
 
@@ -59,5 +59,5 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 
 
 ## ✅ Conclusion  
-This project demonstrates how **Power BI** can be used to transform raw hospital data into actionable insights that support decision-making. By analyzing financial performance, patient engagement, and service demand, the dashboard provides a clear view of hospital operations and highlights areas for strategic improvement.  
+This project demonstrates how Power BI can be used to transform raw hospital data into actionable insights that support decision-making. By analyzing financial performance, patient engagement, and service demand, the dashboard provides a clear view of hospital operations and highlights areas for strategic improvement.  
 
