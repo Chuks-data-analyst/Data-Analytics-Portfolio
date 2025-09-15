@@ -1,5 +1,5 @@
 
-# 🏥 Hospital Management Dashboard
+# Hospital Management Dashboard
 
 ##  Project Overview  
 This project delivers an interactive **Power BI dashboard** that consolidates hospital data into a single source of truth. It provides visibility into **revenue, patient appointments, treatment trends, and demographics**. By transforming raw data into actionable insights, the dashboard enables hospital administrators and managers to **monitor performance, optimize resources, and make data-driven decisions** that improve both operational efficiency and patient care.  
