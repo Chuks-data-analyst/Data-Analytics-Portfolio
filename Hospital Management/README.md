@@ -28,7 +28,7 @@ This interactive dashboard was developed to provide a comprehensive overview of 
 Based on the insights gained from this analysis, here are the key impacts and actionable recommendations for stakeholders:
 
 **Recommendation:** Implement a reminder system for patient appointments, and consider a follow-up process for those who cancel or no-show.
-**Impact:** This could significantly improve the appointment completion rate, optimize resource allocation, and increase overall revenue by reducing missed appointments.
+- **Impact:** This could significantly improve the appointment completion rate, optimize resource allocation, and increase overall revenue by reducing missed appointments.
 
 **Recommendation:** Given the high patient count for Chemotherapy and Physiotherapy, ensure these departments are adequately staffed and resourced to handle demand.
 - **Impact:** This will improve patient satisfaction, reduce wait times, and ensure a high quality of care, which is crucial for these recurring treatments.
