@@ -49,7 +49,12 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 - **Visualization**: Designed an interactive Power BI dashboard with charts, tables, and filters for performance monitoring.  
 
 
-## 📸 Dashboard Snapshots  
+## Dashboard Snapshots  
+<img width="1188" height="663" alt="Screenshot 2025-09-15 133756" src="https://github.com/user-attachments/assets/947735e6-8e2a-4bdf-a0c2-2be2501e0215" />
+<img width="1187" height="658" alt="Screenshot 2025-09-15 133859" src="https://github.com/user-attachments/assets/5860e04c-f3b9-4e55-a1b8-25b46e24b83a" />
+<img width="1185" height="656" alt="Screenshot 2025-09-15 133949" src="https://github.com/user-attachments/assets/952db66f-539e-4157-b09c-a4336b279444" />
+
+
 
 
 
