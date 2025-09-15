@@ -31,10 +31,10 @@ Based on the insights gained from this analysis, here are the key impacts and ac
 **Impact:** This could significantly improve the appointment completion rate, optimize resource allocation, and increase overall revenue by reducing missed appointments.
 
 **Recommendation:** Given the high patient count for Chemotherapy and Physiotherapy, ensure these departments are adequately staffed and resourced to handle demand.
-**Impact:** This will improve patient satisfaction, reduce wait times, and ensure a high quality of care, which is crucial for these recurring treatments.
+- **Impact:** This will improve patient satisfaction, reduce wait times, and ensure a high quality of care, which is crucial for these recurring treatments.
 
 **Recommendation:** Analyze the gender ratio of registered patients (62% male, 38% female) to identify and target underrepresented patient demographics.
-**Impact:** A targeted marketing campaign could increase new patient registrations, leading to a more balanced patient base and higher revenue.
+- **Impact:** A targeted marketing campaign could increase new patient registrations, leading to a more balanced patient base and higher revenue.
 
 ### Methodology
 The data for this project was sourced from a publicly available dataset on Kaggle. I used Power BI to perform the entire analysis. The process involved several key steps:
