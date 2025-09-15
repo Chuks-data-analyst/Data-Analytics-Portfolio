@@ -1,4 +1,7 @@
 ### Hospital Management 
+### Problem Statement
+Hospital administrators and managers need a better way to monitor operational efficiency and identify areas of concern, such as high patient no-show rates and fluctuating revenue, to improve financial stability and patient care.
+
 ### Project Overview
 This interactive dashboard was developed to provide a comprehensive overview of a hospital's key performance metrics. By visualizing data on revenue, patient appointments, and treatment trends, it serves as a valuable tool for hospital administrators and managers to make data-driven decisions regarding operations, resource allocation, and patient care.
 
