@@ -22,7 +22,7 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 ##  Key Insights  
 - **Financial Performance**: Generated $173,425 in revenue across 200 appointments and 50 patients, with significant month-to-month fluctuations.  
 - **Appointment Trends**: Appointment volume peaked in September, revealing seasonality that could inform scheduling and marketing.  
-- **Service Demand**: **Pediatrics, Dermatology, and Oncology accounted for 100% of appointments, indicating concentrated demand.  
+- **Service Demand**: Pediatrics, Dermatology, and Oncology accounted for 100% of appointments, indicating concentrated demand.  
 - **Treatment Insights**: X-Ray and MRI treatments generate the highest revenue, while Chemotherapy and X-Ray have the highest patient count.
 - **Patient Engagement**: High numbers of no-shows (52) and cancellations (51) indicate communication and retention challenges.  
 
@@ -35,11 +35,11 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 - **Impact**: Improves appointment completion rates, reduces revenue loss, and optimizes staff utilization.  
 
 ### For Department Heads  
-- **Recommendation**: Allocate staff and resources to **Chemotherapy** and **Physiotherapy** to meet high demand.  
+- **Recommendation**: Allocate staff and resources to Chemotherapy and Physiotherapy to meet high demand.  
 - **Impact**: Reduces wait times, improves care quality, and enhances patient satisfaction.  
 
 ### For Marketing & Patient Relations  
-- **Recommendation**: Launch targeted campaigns to attract underrepresented demographics (only **38% female** patients).  
+- **Recommendation**: Launch targeted campaigns to attract underrepresented demographics (only 38% female patients).  
 - **Impact**: Expands patient base, balances demographics, and drives revenue growth.  
 
 
