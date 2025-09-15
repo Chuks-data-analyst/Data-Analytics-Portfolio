@@ -49,6 +49,9 @@ The rapid expansion of AI adoption worldwide has created a surge in demand for s
 
 
 ## Dashboard Snapshots  
+<img width="1092" height="602" alt="Page1" src="https://github.com/user-attachments/assets/f6da0d00-4c4f-434a-9d03-b88e371c8ff2" />
+<img width="1044" height="593" alt="Page2" src="https://github.com/user-attachments/assets/b6d67286-fe28-4f87-809e-8539f1840160" />
+
 
 
 
