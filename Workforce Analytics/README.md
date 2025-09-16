@@ -25,7 +25,10 @@ Employee attrition and workforce distribution remain critical challenges for glo
 - **Attrition Hotspot** – The IT department shows the highest attrition, requiring immediate attention and deeper analysis.  
 
 
-## 📸 Dashboard Screenshots  
+##  Dashboard Screenshots  
+<img width="999" height="659" alt="image" src="https://github.com/user-attachments/assets/db7f01b0-6f9f-4257-8fa6-8f266afb4438" />
+<img width="997" height="663" alt="image" src="https://github.com/user-attachments/assets/b4d911e4-86dc-4b80-a70f-add42c8eb65c" />
+
 
 
 
