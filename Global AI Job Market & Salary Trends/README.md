@@ -59,5 +59,5 @@ The rapid expansion of AI adoption worldwide has created a surge in demand for s
 This project demonstrates how data analytics with Excel can uncover meaningful insights into the AI job market. By analyzing roles, skills, salaries, and hiring trends, the dashboard provides a clear resource for recruiters, job seekers, and business leaders.  
 
 ## Data Source  
-The dataset used for this project was sourced from **[Kaggle](https://www.kaggle.com/)**. It contains job postings, salaries, and skill requirements related to the AI job market.  
+The dataset used for this project was sourced from **https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025**. It contains job postings, salaries, and skill requirements related to the AI job market etc.  
 
