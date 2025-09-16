@@ -58,6 +58,6 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 
 
 
-## ✅ Conclusion  
+##  Conclusion  
 This project demonstrates how Power BI can be used to transform raw hospital data into actionable insights that support decision-making. By analyzing financial performance, patient engagement, and service demand, the dashboard provides a clear view of hospital operations and highlights areas for strategic improvement.  
 
