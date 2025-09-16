@@ -20,8 +20,8 @@ The rapid expansion of AI adoption worldwide has created a surge in demand for s
 - **AI Skill Demand**: Python is the top skill (4,450 postings), followed by SQL (3,407) and Kubernetes (3,009).  
 - **Salary Benchmarks**: Switzerland records the highest average annual salary ($170,639), ahead of Denmark ($165,652) and Norway ($159,491).  
 - **Work Location Trends**: Job postings are nearly evenly split across On-site (5,075), Hybrid (5,005), and Remote (4,920) roles, underscoring flexibility in AI hiring.  
-- **Role-Based Salaries**: AI Specialists earn the highest average salary ($120,571), with AI Architects and Research Scientists close behind (~$117K).  
-- **Geographic Hotspots**: Germany leads hiring demand (814 postings), followed by France, Denmark, Canada, and Austria.  
+- **Role-Based Salaries**: AI Specialists earn the highest average salary ($120,571), with Head of AI and machine learning engineer close behind (~$118K).  
+- **Geographic Hotspots**: Germany leads hiring demand (814 postings), followed by Denmark.  
 - **Posting Trends**: Job postings peaked in April (1,927) before declining mid-year, suggesting seasonality in AI recruitment cycles.  
 
 
@@ -29,7 +29,7 @@ The rapid expansion of AI adoption worldwide has created a surge in demand for s
 ##  Impact & Recommendations  
 
 ### For Recruiters & Hiring Managers  
-- **Recommendation**: Prioritize Germany, France, and Denmark as primary hiring markets.  
+- **Recommendation**: Prioritize Germany and Denmark as primary hiring markets.  
 - **Impact**: Streamlines recruitment efforts, reduces time-to-hire, and attracts qualified candidates in high-demand regions.  
 
 ### For Job Seekers  
