@@ -66,3 +66,6 @@ This project demonstrates my ability to use SQL and Power BI to transform raw wo
 - Predictive analytics for attrition forecasting.  
 - Department-level drilldowns for more granular insights.  
 
+
+## Data Source  
+The dataset used for this project was sourced from **https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc**. 
