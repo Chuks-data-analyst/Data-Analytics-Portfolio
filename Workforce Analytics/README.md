@@ -58,7 +58,7 @@ Employee attrition and workforce distribution remain critical challenges for glo
   - Designed interactive dashboards to visualize trends and insights.  
 
 
-## ✅ Conclusion  
+##  Conclusion  
 This project demonstrates my ability to use SQL and Power BI to transform raw workforce data into actionable insights. By analyzing attrition, salary distribution, and workforce demographics, I identified key challenges and opportunities for HR and leadership.  
 
 **Future Enhancements:**  
