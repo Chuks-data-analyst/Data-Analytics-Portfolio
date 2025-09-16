@@ -21,7 +21,7 @@ Hospitals often struggle to monitor key operational and financial metrics due to
 
 ##  Key Insights  
 - **Financial Performance**: Generated $173,425 in revenue across 200 appointments and 50 patients, with significant month-to-month fluctuations.  
-- **Appointment Trends**: Appointment volume peaked in September, revealing seasonality that could inform scheduling and marketing.  
+- **Appointment Trends**: Appointment volume peaked in August, revealing seasonality that could inform scheduling and marketing.  
 - **Service Demand**: Pediatrics, Dermatology, and Oncology accounted for 100% of appointments, indicating concentrated demand.  
 - **Treatment Insights**: X-Ray and MRI treatments generate the highest revenue, while Chemotherapy and X-Ray have the highest patient count.
 - **Patient Engagement**: High numbers of no-shows (52) and cancellations (51) indicate communication and retention challenges.  
