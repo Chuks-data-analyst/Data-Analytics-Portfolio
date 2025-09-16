@@ -1,4 +1,4 @@
-# Global Workforce Analytics Dashboard
+# Workforce Analytics Dashboard
 
 ## Problem Statement  
 Employee attrition and workforce distribution remain critical challenges for global organizations. HR teams and business leaders often struggle to identify which departments face the highest turnover, where salary gaps exist, and how workforce distribution impacts hiring strategies. Without clear visibility into these patterns, companies risk higher recruitment costs, reduced productivity, and missed opportunities for proactive workforce planning.  
