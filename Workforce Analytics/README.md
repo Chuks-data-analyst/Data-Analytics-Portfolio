@@ -69,3 +69,7 @@ This project demonstrates my ability to use SQL and Power BI to transform raw wo
 
 ## Data Source  
 The dataset used for this project was sourced from **https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc**. 
+
+## 📂 Download Power BI File  
+You can download the full interactive dashboard here:  
+https://drive.google.com/file/d/19dQlaJtovGfWiAiscgw7frQjlZbCF6Zq/view?usp=drive_link
