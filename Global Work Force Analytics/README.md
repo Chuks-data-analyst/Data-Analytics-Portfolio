@@ -1,11 +1,12 @@
 # Workforce Analytics Dashboard
 
-## Problem Statement  
-Employee attrition and workforce distribution remain critical challenges for global organizations. HR teams and business leaders often struggle to identify which departments face the highest turnover, where salary gaps exist, and how workforce distribution impacts hiring strategies. Without clear visibility into these patterns, companies risk higher recruitment costs, reduced productivity, and missed opportunities for proactive workforce planning.  
-
 
 ## Project Overview  
 This dashboard was developed to provide a comprehensive analysis of global workforce data, offering key insights into employee demographics, hiring trends, salary distribution, and attrition rates. It serves as a valuable tool for HR professionals, department managers, and business leaders to make data-driven decisions regarding talent management and strategy.  
+
+## Problem Statement  
+Employee attrition and workforce distribution remain critical challenges for global organizations. HR teams and business leaders often struggle to identify which departments face the highest turnover, where salary gaps exist, and how workforce distribution impacts hiring strategies. Without clear visibility into these patterns, companies risk higher recruitment costs, reduced productivity, and missed opportunities for proactive workforce planning.  
+
 
 
 ## Objectives  
