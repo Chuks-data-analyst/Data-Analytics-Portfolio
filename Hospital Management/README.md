@@ -64,3 +64,10 @@ This project demonstrates how Power BI can be used to transform raw hospital dat
 ## Data Source  
 The dataset used for this project was sourced from **https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset**. 
 
+## SQL Scripts
+This project involved cleaning and transforming the dataset in SQL before importing it into Power BI.
+
+- [SQL Cleaning & Transformation Script](./Hospital_Management_Queries.sql)
+
+
+
