@@ -70,6 +70,12 @@ This project demonstrates my ability to use SQL and Power BI to transform raw wo
 ## Data Source  
 The dataset used for this project was sourced from **https://www.kaggle.com/datasets/rohitgrewal/hr-data-mnc**. 
 
-## 📂 Download Power BI File  
+## SQL Scripts
+This project involved cleaning and transforming the dataset in SQL before importing it into Power BI.
+
+- [SQL Cleaning & Transformation Script](./Hospital_Management_Queries.sql)
+
+
+## Download Power BI File  
 You can download the full interactive dashboard here:  
 https://drive.google.com/file/d/19dQlaJtovGfWiAiscgw7frQjlZbCF6Zq/view?usp=drive_link
